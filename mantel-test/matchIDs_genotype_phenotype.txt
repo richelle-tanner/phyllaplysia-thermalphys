@@ -1,0 +1,270 @@
+sample_ID_genotype	sample_ID_phenotype
+Albany_2	Albany13_1
+Albany_4	Albany17_11
+Albany_1	Albany_1
+Albany_3	Albany17_15
+Albany_7	Albany17_21
+Albany_5	Albany17_4
+Albany_6	Albany17_9
+Bay Farm_26	BayFarm13_1
+Bay Farm_17	BayFarm13_18
+Bay Farm_32	BayFarm13_2
+Bay Farm_27	BayFarm13_6
+Bay Farm_9	BayFarm17_1
+Bay Farm_22	BayFarm17_11
+Bay Farm_25	BayFarm17_12
+Bay Farm_277	BayFarm17_14
+Bay Farm_15	BayFarm17_15
+Bay Farm_29	BayFarm17_16
+Bay Farm_28	BayFarm17_18
+Bay Farm_24	BayFarm17_2
+Bay Farm_31	BayFarm17_22
+Bay Farm_8	BayFarm17_4
+Bay Farm_30	BayFarm17_5
+Bay Farm_12	BayFarm17_6
+Bay Farm_19	BayFarm17_7
+Bay Farm_13	BayFarm17_9
+Bay Farm_11	BayFarm21_15
+Bay Farm_10	BayFarm21_16
+Bay Farm_18	BayFarm21_2
+Bay Farm_21	BayFarm21_22
+Bay Farm_20	BayFarm21_4
+Bay Farm_14	BayFarm21_6
+Bay Farm_16	BayFarm21_7
+Bay Farm_23	BayFarm21_9
+Coos_54	Coos_60
+Coos_55	Coos_61
+Coos_56	Coos_62
+Coos_57	Coos_63
+Coos_58	Coos_64
+Coos_59	Coos_65
+Coos_60	Coos_66
+Coos_61	Coos_67
+Coos_62	Coos_68
+Coos_63	Coos_69
+Coos_64	Coos_70
+Coos_65	Coos_71
+Coos_66	Coos_72
+Coos_67	Coos_73
+Coos_68	Coos_74
+Coos_69	Coos_76
+Coos_70	Coos_77
+Coos_43	Coos13_1
+Coos_36	Coos13_12
+Coos_34	Coos13_14
+Coos_38	Coos13_15
+Coos_50	Coos13_16
+Coos_49	Coos13_18
+Coos_42	Coos13_19
+Coos_51	Coos13_21
+Coos_40	Coos13_22
+Coos_33	Coos13_4
+Coos_39	Coos13_5
+Coos_52	Coos13_7
+Coos_47	Coos13_9
+Coos_35	Coos17_11
+Coos_53	Coos17_2
+Coos_45	Coos21_11
+Coos_44	Coos21_12
+Coos_46	Coos21_16
+Coos_48	Coos21_19
+Coos_37	Coos21_4
+Coos_41	Coos21_6
+Crown Beach_76	CrownBeach13_14
+Crown Beach_73	CrownBeach13_18
+Crown Beach_71	CrownBeach13_2
+Crown Beach_75	CrownBeach13_3
+Crown Beach_74	CrownBeach13_5
+Crown Beach_72	CrownBeach13_9
+Crown Beach_77	CrownBeach17_12
+Crown Beach_84	CrownBeach17_15
+Crown Beach_78	CrownBeach17_5
+Crown Beach_88	CrownBeach17_9
+Crown Beach_93	CrownBeach21_1
+Crown Beach_94	CrownBeach21_17
+Crown Beach_83	CrownBeach21_19
+Crown Beach_81	CrownBeach21_2
+Crown Beach_82	CrownBeach21_3
+Crown Beach_79	CrownBeach21_4
+Crown Beach_80	CrownBeach21_6
+Crown Beach_87	CrownBeach21_8
+Humboldt_110	Humboldt_1
+Humboldt_119	Humboldt_10
+Humboldt_120	Humboldt_11
+Humboldt_121	Humboldt_12
+Humboldt_122	Humboldt_13
+Humboldt_123	Humboldt_14
+Humboldt_124	Humboldt_15
+Humboldt_125	Humboldt_16
+Humboldt_126	Humboldt_17
+Humboldt_111	Humboldt_2
+Humboldt_127	Humboldt_20
+Humboldt_112	Humboldt_3
+Humboldt_113	Humboldt_4
+Humboldt_114	Humboldt_5
+Humboldt_115	Humboldt_6
+Humboldt_116	Humboldt_7
+Humboldt_117	Humboldt_8
+Humboldt_118	Humboldt_9
+Humboldt_109	Humboldt13_1
+Humboldt_101	Humboldt13_11
+Humboldt_90	Humboldt13_12
+Humboldt_107	Humboldt13_15
+Humboldt_103	Humboldt13_16
+Humboldt_89	Humboldt13_18
+Humboldt_91	Humboldt13_19
+Humboldt_95	Humboldt13_2
+Humboldt_96	Humboldt13_22
+Humboldt_85	Humboldt13_4
+Humboldt_98	Humboldt13_6
+Humboldt_106	Humboldt17_14
+Humboldt_92	Humboldt17_19
+Humboldt_86	Humboldt21_1
+Humboldt_100	Humboldt21_11
+Humboldt_104	Humboldt21_15
+Humboldt_108	Humboldt21_19
+Humboldt_99	Humboldt21_2
+Humboldt_102	Humboldt21_22
+Humboldt_97	Humboldt21_5
+Humboldt_105	Humboldt21_7
+Morro_130	Morro13_15
+Morro_142	Morro13_19
+Morro_139	Morro13_5
+Morro_135	Morro17_1
+Morro_132	Morro17_12
+Morro_148	Morro17_14
+Morro_147	Morro17_15
+Morro_145	Morro17_16
+Morro_141	Morro17_18
+Morro_134	Morro17_19
+Morro_128	Morro17_2
+Morro_146	Morro17_4
+Morro_140	Morro17_5
+Morro_137	Morro17_6
+Morro_138	Morro21_11
+Morro_133	Morro21_14
+Morro_143	Morro21_15
+Morro_129	Morro21_18
+Morro_136	Morro21_22
+Morro_144	Morro21_6
+Morro_131	Morro21_7
+Ocean Shores_149	OceanShores_1
+Ocean Shores_150	OceanShores_2
+Ocean Shores_151	OceanShores_3
+Ocean Shores_152	OceanShores_4
+Ocean Shores_158	OceanShores_41
+Ocean Shores_159	OceanShores_42
+Ocean Shores_160	OceanShores_44
+Ocean Shores_161	OceanShores_45
+Ocean Shores_162	OceanShores_46
+Ocean Shores_164	OceanShores_48
+Ocean Shores_165	OceanShores_49
+Ocean Shores_153	OceanShores_5
+Ocean Shores_166	OceanShores_50
+Ocean Shores_167	OceanShores_51
+Ocean Shores_168	OceanShores_52
+Ocean Shores_169	OceanShores_53
+Ocean Shores_170	OceanShores_54
+Ocean Shores_171	OceanShores_55
+Ocean Shores_172	OceanShores_57
+Ocean Shores_173	OceanShores_58
+Ocean Shores_163	OceanShores_59
+Ocean Shores_156	OceanShores_7
+Ocean Shores_157	OceanShores_9
+Ocean Shores_154	OceanShores13_11
+Ocean Shores_155	OceanShores13_14
+Paradise_177	ParadisePark13_15
+Paradise_180	ParadisePark13_18
+Paradise_174	ParadisePark13_19
+Paradise_176	ParadisePark13_3
+Paradise_175	ParadisePark17_13
+Paradise_179	ParadisePark17_15
+Paradise_181	ParadisePark17_4
+Paradise_178	ParadisePark17_5
+Pt Orient_228	PointOrient13_11
+Pt Orient_243	PointOrient13_12
+Pt Orient_241	PointOrient13_16
+Pt Orient_245	PointOrient13_4
+Pt Orient_229	PointOrient13_6
+Pt Orient_230	PointOrient13_7
+Pt Orient_233	PointOrient17_14
+Pt Orient_242	PointOrient17_16
+Pt Orient_236	PointOrient17_17
+Pt Orient_232	PointOrient17_19
+Pt Orient_239	PointOrient17_4
+Pt Orient_240	PointOrient17_6
+Pt Orient_231	PointOrient17_7
+Pt Orient_235	PointOrient21_11
+Pt Orient_278	PointOrient21_12
+Pt Orient_244	PointOrient21_14
+Pt Orient_237	PointOrient21_15
+Pt Orient_234	PointOrient21_16
+Pt Orient_238	PointOrient21_5
+Pt Molate_215	PtMolate13_1
+Pt Molate_213	PtMolate13_11
+Pt Molate_199	PtMolate13_12
+Pt Molate_225	PtMolate13_13
+Pt Molate_202	PtMolate13_15
+Pt Molate_221	PtMolate13_16
+Pt Molate_214	PtMolate13_18
+Pt Molate_226	PtMolate13_19
+Pt Molate_222	PtMolate13_2
+Pt Molate_224	PtMolate13_2
+Pt Molate_190	PtMolate13_21
+Pt Molate_206	PtMolate13_22
+Pt Molate_216	PtMolate13_3
+Pt Molate_197	PtMolate13_4
+Pt Molate_201	PtMolate13_7
+Pt Molate_223	PtMolate13_9
+Pt Molate_198	PtMolate17_1
+Pt Molate_187	PtMolate17_12
+Pt Molate_189	PtMolate17_14
+Pt Molate_204	PtMolate17_16
+Pt Molate_183	PtMolate17_18
+Pt Molate_191	PtMolate17_19
+Pt Molate_200	PtMolate17_2
+Pt Molate_208	PtMolate17_2
+Pt Molate_195	PtMolate17_22
+Pt Molate_192	PtMolate17_4
+Pt Molate_182	PtMolate17_5
+Pt Molate_210	PtMolate17_6
+Pt Molate_205	PtMolate17_7
+Pt Molate_184	PtMolate17_9
+Pt Molate_196	PtMolate21_1
+Pt Molate_186	PtMolate21_16
+Pt Molate_188	PtMolate21_18
+Pt Molate_185	PtMolate21_19
+Pt Molate_193	PtMolate21_5
+Pt Molate_194	PtMolate21_6
+Pt Molate_203	PtMolate21_9
+Tomales_246	Tomales_1
+Tomales_260	Tomales_21
+Tomales_261	Tomales_23
+Tomales_262	Tomales_24
+Tomales_263	Tomales_25
+Tomales_264	Tomales_26
+Tomales_265	Tomales_27
+Tomales_266	Tomales_28
+Tomales_267	Tomales_29
+Tomales_268	Tomales_30
+Tomales_269	Tomales_31
+Tomales_270	Tomales_32
+Tomales_271	Tomales_33
+Tomales_272	Tomales_34
+Tomales_273	Tomales_35
+Tomales_274	Tomales_36
+Tomales_275	Tomales_37
+Tomales_276	Tomales_38
+Tomales_251	Tomales13_14
+Tomales_253	Tomales13_15
+Tomales_255	Tomales13_16
+Tomales_259	Tomales13_7
+Tomales_257	Tomales17_11
+Tomales_254	Tomales17_12
+Tomales_256	Tomales17_17
+Tomales_252	Tomales17_22
+Tomales_258	Tomales17_9
+Tomales_247	Tomales21_1
+Tomales_248	Tomales21_12
+Tomales_249	Tomales21_14
+Tomales_250	Tomales21_5
